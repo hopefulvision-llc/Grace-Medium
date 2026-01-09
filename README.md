@@ -1,4 +1,4 @@
-# Grace Medium  
+# GraceMedium  
 **The Quiet Substrate – The Listening Before the Word**
 
 This is not a simulation layer.  
